@@ -1,0 +1,29 @@
+{
+  "name": "javascript-common-utilities",
+  "version": "1.0.0",
+  "description": "A common functionalities for any JavaScript projects.",
+  "main": "useCommonUtilities.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonCode144/javascript-common-utilities.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "common",
+    "utilities",
+    "functionalities",
+    "functions"
+  ],
+  "author": "Ronny Gutierrez Vitola <ronny_vitola@outlook-com> (https://co.linkedin.com/in/ronny-gutierrez-vitola)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonCode144/javascript-common-utilities/issues"
+  },
+  "homepage": "https://github.com/RonCode144/javascript-common-utilities#readme"
+}
